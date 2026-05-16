@@ -38,32 +38,32 @@ Durante el proyecto se respondieron las siguientes preguntas de negocio mediante
 ## Visualizaciones
 
 ### Métodos de pago más utilizados
-![Métodos de Pago](images/metodos_de_pago_mas_utilizados.png)
+![Métodos de Pago](Images/metodos_de_pago_mas_utilizados.png)
 
 ---
 
 ### Top 10 Clientes con Mayor Gasto
-![Clientes](images/clientes_mas_gastan.png)
+![Clientes](Images/clientes_mas_gastan.png)
 
 ---
 
 ### Top 10 Categorías que más Vendieron
-![Categorías](images/categorias_mas_vendieron.png)
+![Categorías](Images/categorias_mas_vendieron.png)
 
 ---
 
 ### Evolución de ventas por mes
-![Evolución Temporal](images/Evolucion_ventas_por_mes.png)
+![Evolución Temporal](Images/Evolucion_ventas_por_mes.png)
 
 ---
 
 ### Distribución del tiempo de entrega
-![Tiempos de Entrega](images/Tiempo_promedio_entrega.png)
+![Tiempos de Entrega](Images/Tiempo_promedio_entrega.png)
 
 ---
 
 ### Top 10 ciudades con más ventas
-![Ciudades](images/Estados_o_ciudades_con_mas_ventas.png)
+![Ciudades](Images/Estados_o_ciudades_con_mas_ventas.png)
 
 ---
 
